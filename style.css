@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    font-size:19pt;
+    border: 0;
+    
+}
+
+.casa{
+    background: blue;
+    color: white;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+.pai{
+    background: rgba(0, 0, 0, 0.807);
+    text-align: center;
+    padding: 22px;
+    gap: 22px;
+    justify-content: center;
+    display: flex;
+    height: 251px;
+}
+
+.filha {
+    background: gray;
+    width: 200px;
+    height: 250px;
+}
+
+.filho {
+    background: blueviolet;
+    width: 200px;
+    height: 250px;
+
+}
